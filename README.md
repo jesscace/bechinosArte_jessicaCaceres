@@ -1,11 +1,11 @@
-Carpeta de arte de **Bechiños**, el juego que hace de hilo conductor del módulo **Diseño 2D y 3D** en el Curso de especialización en Desarrollo de Videojuegos y Realidad Virtual
+Carpeta de arte de ***Bechiños***, el juego que hace de hilo conductor del módulo **Diseño 2D y 3D** en el Curso de especialización en Desarrollo de Videojuegos y Realidad Virtual
 
-Estructura
+## Estructura
 
 | Carpeta | Contenido |
 |---|---|
-| `00-biblia/´ | Biblia de arte en Markdown |
+| `00-biblia/` | Biblia de arte en Markdown |
 
-Autora
+## Autora
 
 Jéssica Cáceres Llorens
